@@ -1,4 +1,4 @@
-##Front end Laravel-School-API##
+## Front end Laravel-School-API ##
 ----
 
 ## Getting started
