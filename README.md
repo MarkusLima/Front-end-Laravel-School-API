@@ -1,6 +1,4 @@
 ##Front end Laravel-School-API##
-Anyone up for the challenge of maintaining this repo?
-Reach out on twitter @vilsbole
 ----
 
 ## Getting started
